@@ -8,6 +8,9 @@ This projects aimed at designed a Coordinate Extracting tool from for Spine X-Ra
 🇫🇷 The project was conducted in French: the final report and the code comments are in French.
 
 ## Features
+
+<img width="996" alt="Capture_dcran_2020-08-20__14 59 04" src="https://github.com/kenza-ily/20INSA_ClinicalImage_CoordinateNumeriser/assets/52839072/c2ae4b51-afc1-4fbd-b139-e0d99a67e02b">
+
 - **Image Processing**: Implements advanced algorithms to process clinical images and detect relevant markers or points of interest.
 - **Coordinate Extraction**: Accurately identifies and extracts the coordinates of specific features within the clinical images through the live pointer.
 - **Numerization**: Converts the extracted coordinates into a numerical format, making it suitable for statistical analysis, machine learning models, and other computational applications.
