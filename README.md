@@ -21,6 +21,9 @@ This projects aimed at designed a Coordinate Extracting tool from for Spine X-Ra
 <div style="text-align: center;">
     <img src="https://github.com/kenza-ily/20INSA_ClinicalImage_CoordinateNumeriser/assets/52839072/75465fb7-74f7-4c49-adde-7a69ac525c80" alt="Capture_dcran_2020-08-20__14 50 22" style="width: 60%; display: block; margin: auto;">
 </div>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://github.com/kenza-ily/20INSA_ClinicalImage_CoordinateNumeriser/assets/52839072/75465fb7-74f7-4c49-adde-7a69ac525c80" alt="Capture_dcran_2020-08-20__14 50 22" style="max-width: 60%; height: auto;">
+</div>
 
 
 - **Compatibility**: Supports a wide range of image formats commonly used in clinical settings, ensuring broad applicability.
