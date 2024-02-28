@@ -9,22 +9,19 @@ This projects aimed at designed a Coordinate Extracting tool from for Spine X-Ra
 
 ## Features
 
-<div style="text-align: center;">
-    <img src="https://github.com/kenza-ily/20INSA_ClinicalImage_CoordinateNumeriser/assets/52839072/c2ae4b51-afc1-4fbd-b139-e0d99a67e02b" alt="Capture_dcran_2020-08-20__14 59 04" style="width: 50%; display: block; margin: auto;">
+<div align="center">
+    <img src="https://github.com/kenza-ily/20INSA_ClinicalImage_CoordinateNumeriser/assets/52839072/c2ae4b51-afc1-4fbd-b139-e0d99a67e02b" alt="Capture_dcran_2020-08-20__14 59 04" width="60%">
 </div>
+
 
 - **Image Processing**: Implements advanced algorithms to process clinical images and detect relevant markers or points of interest.
 - **Coordinate Extraction**: Accurately identifies and extracts the coordinates of specific features within the clinical images through the live pointer.
 - **Numerization**: Converts the extracted coordinates into a numerical format, making it suitable for statistical analysis, machine learning models, and other computational applications.
 - **Data Visualization**: Provides tools for visualizing the extracted coordinates and the original clinical images, aiding in the verification and analysis of the data.
 
-<div style="text-align: center;">
-    <img src="https://github.com/kenza-ily/20INSA_ClinicalImage_CoordinateNumeriser/assets/52839072/75465fb7-74f7-4c49-adde-7a69ac525c80" alt="Capture_dcran_2020-08-20__14 50 22" style="width: 60%; display: block; margin: auto;">
+<div align="center">
+    <img src="https://github.com/kenza-ily/20INSA_ClinicalImage_CoordinateNumeriser/assets/52839072/75465fb7-74f7-4c49-adde-7a69ac525c80" alt="Capture_dcran_2020-08-20__14 50 22" width="60%">
 </div>
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://github.com/kenza-ily/20INSA_ClinicalImage_CoordinateNumeriser/assets/52839072/75465fb7-74f7-4c49-adde-7a69ac525c80" alt="Capture_dcran_2020-08-20__14 50 22" style="max-width: 30%; height: auto;">
-</div>
-
 
 - **Compatibility**: Supports a wide range of image formats commonly used in clinical settings, ensuring broad applicability.
 
