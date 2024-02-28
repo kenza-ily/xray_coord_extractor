@@ -15,6 +15,8 @@ This projects aimed at designed a Coordinate Extracting tool from for Spine X-Ra
 - **Coordinate Extraction**: Accurately identifies and extracts the coordinates of specific features within the clinical images through the live pointer.
 - **Numerization**: Converts the extracted coordinates into a numerical format, making it suitable for statistical analysis, machine learning models, and other computational applications.
 - **Data Visualization**: Provides tools for visualizing the extracted coordinates and the original clinical images, aiding in the verification and analysis of the data.
+- ![Uploading Capture_dcran_2020-08-20__14.50.22.png…]()
+
 - **Compatibility**: Supports a wide range of image formats commonly used in clinical settings, ensuring broad applicability.
 
 ## Installation
