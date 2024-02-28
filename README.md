@@ -4,6 +4,7 @@
 
 This project was developped during my Research and Biomechanics Internship at Skairos, in Summer 2020, in Paris, France. Skairos develops Spine Digital Twins for personalised medicine, more info [here]([url](https://skairos.io)).
 This projects aimed at designed a Coordinate Extracting tool from for Spine X-Rays, but remains applicable for all 2D clinical images. It aims to facilitate the analysis and processing of clinical data by converting image-based information into a numerical format that can be easily utilized in various computational models and algorithms.
+
 🇫🇷 The project was conducted in French: the final report and the code comments are in French.
 
 ## Features
