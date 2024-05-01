@@ -1,4 +1,4 @@
-# 20INSA_ClinicalImage_CoordinateNumeriser
+# XRay Coordinates Extractor
 
 ## Overview
 
